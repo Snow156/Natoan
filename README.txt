@@ -1,0 +1,1 @@
+I reccomend putting both files in a folder marked "The game" or whatever.
